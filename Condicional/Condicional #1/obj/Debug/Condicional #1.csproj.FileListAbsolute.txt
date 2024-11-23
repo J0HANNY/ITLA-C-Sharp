@@ -1,0 +1,12 @@
+C:\Users\Johan\OneDrive\Documentos\ITLA C#\Programación Condicional\Condicional #1\bin\Debug\Condicional #1.exe.config
+C:\Users\Johan\OneDrive\Documentos\ITLA C#\Programación Condicional\Condicional #1\bin\Debug\Condicional #1.exe
+C:\Users\Johan\OneDrive\Documentos\ITLA C#\Programación Condicional\Condicional #1\bin\Debug\Condicional #1.pdb
+C:\Users\Johan\OneDrive\Documentos\ITLA C#\Programación Condicional\Condicional #1\obj\Debug\Condicional #1.csprojResolveAssemblyReference.cache
+C:\Users\Johan\OneDrive\Documentos\ITLA C#\Programación Condicional\Condicional #1\obj\Debug\Condicional #1.exe
+C:\Users\Johan\OneDrive\Documentos\ITLA C#\Programación Condicional\Condicional #1\obj\Debug\Condicional #1.pdb
+C:\Users\Johan\OneDrive\Documentos\ITLA C#\Condicional\Condicional #1\bin\Debug\Condicional #1.exe.config
+C:\Users\Johan\OneDrive\Documentos\ITLA C#\Condicional\Condicional #1\bin\Debug\Condicional #1.exe
+C:\Users\Johan\OneDrive\Documentos\ITLA C#\Condicional\Condicional #1\bin\Debug\Condicional #1.pdb
+C:\Users\Johan\OneDrive\Documentos\ITLA C#\Condicional\Condicional #1\obj\Debug\Condicional #1.csprojResolveAssemblyReference.cache
+C:\Users\Johan\OneDrive\Documentos\ITLA C#\Condicional\Condicional #1\obj\Debug\Condicional #1.exe
+C:\Users\Johan\OneDrive\Documentos\ITLA C#\Condicional\Condicional #1\obj\Debug\Condicional #1.pdb
