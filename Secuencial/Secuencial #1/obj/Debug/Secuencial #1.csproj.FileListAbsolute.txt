@@ -1,6 +1,0 @@
-C:\Users\Johan\OneDrive\Documentos\ITLA C#\Secuencial\Secuencial #1\bin\Debug\Secuencial #1.exe.config
-C:\Users\Johan\OneDrive\Documentos\ITLA C#\Secuencial\Secuencial #1\bin\Debug\Secuencial #1.exe
-C:\Users\Johan\OneDrive\Documentos\ITLA C#\Secuencial\Secuencial #1\bin\Debug\Secuencial #1.pdb
-C:\Users\Johan\OneDrive\Documentos\ITLA C#\Secuencial\Secuencial #1\obj\Debug\Secuencial #1.csprojResolveAssemblyReference.cache
-C:\Users\Johan\OneDrive\Documentos\ITLA C#\Secuencial\Secuencial #1\obj\Debug\Secuencial #1.exe
-C:\Users\Johan\OneDrive\Documentos\ITLA C#\Secuencial\Secuencial #1\obj\Debug\Secuencial #1.pdb
