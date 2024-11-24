@@ -1,0 +1,6 @@
+C:\Users\Johan\OneDrive\Documentos\ITLA C#\Bucles while\While #2\bin\Debug\While #2.exe.config
+C:\Users\Johan\OneDrive\Documentos\ITLA C#\Bucles while\While #2\bin\Debug\While #2.exe
+C:\Users\Johan\OneDrive\Documentos\ITLA C#\Bucles while\While #2\bin\Debug\While #2.pdb
+C:\Users\Johan\OneDrive\Documentos\ITLA C#\Bucles while\While #2\obj\Debug\While #2.csprojResolveAssemblyReference.cache
+C:\Users\Johan\OneDrive\Documentos\ITLA C#\Bucles while\While #2\obj\Debug\While #2.exe
+C:\Users\Johan\OneDrive\Documentos\ITLA C#\Bucles while\While #2\obj\Debug\While #2.pdb
