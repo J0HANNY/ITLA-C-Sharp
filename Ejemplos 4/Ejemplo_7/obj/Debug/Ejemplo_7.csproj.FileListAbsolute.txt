@@ -1,6 +1,0 @@
-C:\Users\Johan\OneDrive\Documentos\ITLA C#\Ejemplos 4\Ejemplo_7\bin\Debug\Ejemplo_7.exe.config
-C:\Users\Johan\OneDrive\Documentos\ITLA C#\Ejemplos 4\Ejemplo_7\bin\Debug\Ejemplo_7.exe
-C:\Users\Johan\OneDrive\Documentos\ITLA C#\Ejemplos 4\Ejemplo_7\bin\Debug\Ejemplo_7.pdb
-C:\Users\Johan\OneDrive\Documentos\ITLA C#\Ejemplos 4\Ejemplo_7\obj\Debug\Ejemplo_7.exe
-C:\Users\Johan\OneDrive\Documentos\ITLA C#\Ejemplos 4\Ejemplo_7\obj\Debug\Ejemplo_7.pdb
-C:\Users\Johan\OneDrive\Documentos\ITLA C#\Ejemplos 4\Ejemplo_7\obj\Debug\Ejemplo_7.csprojResolveAssemblyReference.cache
