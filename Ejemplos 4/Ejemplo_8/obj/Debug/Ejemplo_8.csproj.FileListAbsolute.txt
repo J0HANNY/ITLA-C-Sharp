@@ -1,5 +1,0 @@
-C:\Users\Johan\OneDrive\Documentos\ITLA C#\Ejemplos 4\Ejemplo_8\bin\Debug\Ejemplo_8.exe.config
-C:\Users\Johan\OneDrive\Documentos\ITLA C#\Ejemplos 4\Ejemplo_8\bin\Debug\Ejemplo_8.exe
-C:\Users\Johan\OneDrive\Documentos\ITLA C#\Ejemplos 4\Ejemplo_8\bin\Debug\Ejemplo_8.pdb
-C:\Users\Johan\OneDrive\Documentos\ITLA C#\Ejemplos 4\Ejemplo_8\obj\Debug\Ejemplo_8.exe
-C:\Users\Johan\OneDrive\Documentos\ITLA C#\Ejemplos 4\Ejemplo_8\obj\Debug\Ejemplo_8.pdb
