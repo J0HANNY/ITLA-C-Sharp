@@ -1,0 +1,6 @@
+C:\Users\Johan\OneDrive\Documentos\SharpDevelop Projects\Casos 8\Caso_2\bin\Debug\Caso_2.exe.config
+C:\Users\Johan\OneDrive\Documentos\SharpDevelop Projects\Casos 8\Caso_2\bin\Debug\Caso_2.exe
+C:\Users\Johan\OneDrive\Documentos\SharpDevelop Projects\Casos 8\Caso_2\bin\Debug\Caso_2.pdb
+C:\Users\Johan\OneDrive\Documentos\SharpDevelop Projects\Casos 8\Caso_2\obj\Debug\Caso_2.csprojResolveAssemblyReference.cache
+C:\Users\Johan\OneDrive\Documentos\SharpDevelop Projects\Casos 8\Caso_2\obj\Debug\Caso_2.exe
+C:\Users\Johan\OneDrive\Documentos\SharpDevelop Projects\Casos 8\Caso_2\obj\Debug\Caso_2.pdb
