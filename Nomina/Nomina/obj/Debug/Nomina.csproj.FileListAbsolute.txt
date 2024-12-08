@@ -1,6 +1,0 @@
-C:\Users\Johan\OneDrive\Documentos\SharpDevelop Projects\Nomina\Nomina\bin\Debug\Nomina.exe.config
-C:\Users\Johan\OneDrive\Documentos\SharpDevelop Projects\Nomina\Nomina\bin\Debug\Nomina.exe
-C:\Users\Johan\OneDrive\Documentos\SharpDevelop Projects\Nomina\Nomina\bin\Debug\Nomina.pdb
-C:\Users\Johan\OneDrive\Documentos\SharpDevelop Projects\Nomina\Nomina\obj\Debug\Nomina.csprojResolveAssemblyReference.cache
-C:\Users\Johan\OneDrive\Documentos\SharpDevelop Projects\Nomina\Nomina\obj\Debug\Nomina.exe
-C:\Users\Johan\OneDrive\Documentos\SharpDevelop Projects\Nomina\Nomina\obj\Debug\Nomina.pdb
