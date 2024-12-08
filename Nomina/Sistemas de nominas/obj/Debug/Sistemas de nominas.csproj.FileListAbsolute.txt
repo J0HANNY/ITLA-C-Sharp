@@ -1,0 +1,6 @@
+C:\Users\Johan\OneDrive\Documentos\SharpDevelop Projects\Nomina\Sistemas de nominas\obj\Debug\Sistemas de nominas.csprojResolveAssemblyReference.cache
+C:\Users\Johan\OneDrive\Documentos\SharpDevelop Projects\Nomina\Sistemas de nominas\bin\Debug\Sistemas de nominas.exe.config
+C:\Users\Johan\OneDrive\Documentos\SharpDevelop Projects\Nomina\Sistemas de nominas\bin\Debug\Sistemas de nominas.exe
+C:\Users\Johan\OneDrive\Documentos\SharpDevelop Projects\Nomina\Sistemas de nominas\bin\Debug\Sistemas de nominas.pdb
+C:\Users\Johan\OneDrive\Documentos\SharpDevelop Projects\Nomina\Sistemas de nominas\obj\Debug\Sistemas de nominas.exe
+C:\Users\Johan\OneDrive\Documentos\SharpDevelop Projects\Nomina\Sistemas de nominas\obj\Debug\Sistemas de nominas.pdb
